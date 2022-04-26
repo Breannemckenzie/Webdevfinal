@@ -1,0 +1,22 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    text-align: center;
+    color: rgb(49, 156, 192);
+    border: 5px solid rgb(49, 156, 192);
+    padding: 10px;
+    margin: 20px;
+}
+
+body{
+    background-color: rgb(192, 216, 224);
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
